@@ -6,7 +6,7 @@ Repeatable [Mininet](http://mininet.org/) installation using HashiCorp [Vagrant]
 
 - Install [Vagrant](https://www.vagrantup.com/downloads)
 - Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  - Currently, this is tested against VirtualBox, but it may work using the VMWare Fusion provider
+  - This is currently tested against VirtualBox, but it may work using different providers (e.g., VMWare Fusion)
 
 ## Usage
 
