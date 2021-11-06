@@ -1,4 +1,4 @@
-# Mininet VM with Vagrant
+# vagrant-mininet
 
 Repeatable [Mininet](http://mininet.org/) installation using HashiCorp [Vagrant](https://www.vagrantup.com).
 
