@@ -14,7 +14,7 @@ Repeatable [Mininet](http://mininet.org/) installation using HashiCorp [Vagrant]
 - Run `vagrant ssh`
 - Run `sudo mn --test pingall` within the VM to test that Mininet has been installed properly.
 
-## Using Wireshark
+### Packet Captures using Wireshark
 
 - Install XQuartz for macOS or Xming for Windows for X11 forwarding
 - Run `sudo xauth add $(xauth list $DISPLAY)` to allow `root` to use X11 Forwarding
